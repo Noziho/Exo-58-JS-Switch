@@ -1,4 +1,4 @@
-let fruits = prompt("Entrez le nom d'un fruit");
+let fruits = prompt("Entrez Banana ou Apple");
 switch (fruits) {
 
     case "Banana":
@@ -9,6 +9,4 @@ switch (fruits) {
         alert("Welcome")
         break;
 
-    default:
-        alert("ciao")
 }
